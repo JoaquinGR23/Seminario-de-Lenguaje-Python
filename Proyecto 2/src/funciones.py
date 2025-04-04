@@ -1,6 +1,5 @@
 
 players = {}
-round_scores = {}
 def update_scores(round_data):
     """
     Esta funcion actualiza las puntuaciones de los jugadores basándose en los datos de la ronda.
@@ -12,6 +11,7 @@ def update_scores(round_data):
         list: Una lista de tuplas que contienen el nombre del jugador y sus estadísticas acumuladas, ordenada por puntos en orden descendente.
     
     """
+    round_scores = {}
     for player, stats in round_data.items(): 
         kills, assists, death = stats['kills'], stats['assists'], stats['deaths']
         points = kills * 3 + assists * 1 - (1 if death else 0)  
