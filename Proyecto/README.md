@@ -115,7 +115,7 @@ según los datos de la Encuesta Permanente de Hogares (EPH).
 
 ## Autores
 - Gimenez Ruiz Joaquin Alejo 
-- Erik Nishimura
+- Nishimura Erik 
 - Rasic Avril Antonella 
 - Carrizo Senra Rocio
 - Manucci Lautaro David
