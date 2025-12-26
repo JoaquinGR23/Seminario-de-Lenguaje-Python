@@ -111,7 +111,7 @@ según los datos de la Encuesta Permanente de Hogares (EPH).
 │── LICENSE              # Licencia del codigo
 ```
 **Leer licencia**
-* La licencia asociada a la App es: Ver archivo LICENSE
+* La licencia asociada a la App es: Ver archivo [LICENCE](https://www.indec.gob.ar/indec/web/Nivel4-Tema-4-31-59)
 
 ## Autores
 - Gimenez Ruiz Joaquin Alejo 
