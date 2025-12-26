@@ -114,8 +114,8 @@ según los datos de la Encuesta Permanente de Hogares (EPH).
 * La licencia asociada a la App es: Ver archivo LICENSE
 
 ## Autores
-Gimenez Ruiz Joaquin Alejo 
-Erik Nishimura
-Rasic Avril Antonella 
-Carrizo Senra Rocio
-Manucci Lautaro David
+- Gimenez Ruiz Joaquin Alejo 
+- Erik Nishimura
+- Rasic Avril Antonella 
+- Carrizo Senra Rocio
+- Manucci Lautaro David
